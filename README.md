@@ -194,3 +194,30 @@ npm run dev
 yarn
 yarn dev
 ```
+
+# Update these with your Supabase details from your project settings > API
+
+NEXT_PUBLIC_SUPABASE_URL=https://xphkxmkwcpmeyoezizhy.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhwaGt4bWt3Y3BtZXlvZXppemh5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODY1NzQzMDksImV4cCI6MjAwMjE1MDMwOX0.82TvyDii33HQq23jr6q6wPf_rynmYXTPG_1BfoKDn2c
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhwaGt4bWt3Y3BtZXlvZXppemh5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY4NjU3NDMwOSwiZXhwIjoyMDAyMTUwMzA5fQ.qnzG0hNLMw3gR25pjUX6gUEzUj03iQSVj7lICY1821Q
+
+# Update these with your Stripe credentials from https://dashboard.stripe.com/apikeys
+
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_test_KR0gffnEFOUP2SguvheBw7tI
+STRIPE_SECRET_KEY=sk_test_sMnyFYsKh1OPlJhaDnJQ0p5e
+#test
+STRIPE_WEBHOOK_SECRET=whsec_7XIZhZ1uVQv9yX4JvzW4lrmOwO1WdjEq
+
+# STRIPE_WEBHOOK_SECRET=whsec_1M3Jwg1gY3btdFyq3RF6KDdDfun8dUpV //live
+
+`sbp_4df73d1795c50ca59c010edc2eaf7f776c384efb`
+
+sbp_4df7••••••••••••••••••••••••••••••••4efb
+
+4df73d1795c50ca59c010edc2eaf7f776c384ef
+
+4df73d1795c50ca59c010edc2eaf7f776c384efb
+
+sbp_4df73d1795c50ca59c010edc2eaf7f776c384efb
+
+sbp_4df7...4efb
